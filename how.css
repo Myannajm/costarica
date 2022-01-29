@@ -19,13 +19,13 @@
     }
 
 h3{
-    text-align: left;
+  color: black;
+	font-size: 25px;
+	font-family: "Lato", sans-serif;
+	text-align: left;
 }
 .container{
-    float:left;
-    font-size: 16px;
     text-align: left;
-    margin-left: 10%;
 }
 #photo1{
     margin-left: 25%;
